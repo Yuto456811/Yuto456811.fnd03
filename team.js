@@ -6,7 +6,7 @@ const clubs = {
     league: "Premier League（イングランド）",
     instagram: "https://www.instagram.com/liverpoolfc/",
     watch: "SPOTV NOW",
-    image: "./image/liverpool.webp",
+    image: "./liverpool.webp",
 
     description:
       "世界的な知名度と伝統、サポーターとの一体感を持つクラブ。日本人選手との接点もあり、海外サッカーの入口としても選びやすい。",
@@ -29,7 +29,7 @@ const clubs = {
     league: "Bundesliga（ドイツ）",
     instagram: "https://www.instagram.com/bvb09/",
     watch: "WOWOW",
-    image: "./image/dortmund.webp",
+    image: "./dortmund.webp",
 
     description:
       "サポーターとの一体感や若手選手の成長が魅力。勝利だけでなく、挑戦や成長の過程を楽しみたい人に向くクラブ。",
@@ -52,7 +52,7 @@ const clubs = {
     league: "Scottish Premiership（スコットランド）",
     instagram: "https://www.instagram.com/celticfc/",
     watch: "DAZN",
-    image: "./image/celtic.webp",
+    image: "./celtic.webp",
 
     description:
       "長い歴史とサポーター文化を持ち、日本人選手とのつながりも強いクラブ。",
@@ -75,7 +75,7 @@ const clubs = {
     league: "J1 League（日本）",
     instagram: "https://www.instagram.com/kashima.antlers/",
     watch: "DAZN",
-    image: "./image/antlers.webp",
+    image: "./antlers.webp",
 
     description:
       "勝利へのこだわりと国内で積み重ねてきた歴史を特徴とするクラブ。",
@@ -98,7 +98,7 @@ const clubs = {
     league: "J1 League（日本）",
     instagram: "https://www.instagram.com/fc_machida_z/",
     watch: "DAZN",
-    image: "./image/machida.webp",
+    image: "./machida.webp",
 
     description:
       "新しい時代を作っていく挑戦と成長が特徴。クラブが成長していく過程も楽しみたい人に向く。",
@@ -121,7 +121,7 @@ const clubs = {
     league: "La Liga（スペイン）",
     instagram: "https://www.instagram.com/fcbarcelona/",
     watch: "DAZN",
-    image: "./image/barcelona.webp",
+    image: "./barcelona.webp",
 
     description:
       "世界的な知名度を持ちながら、独自のサッカー哲学やスタイルを強く持つクラブ。",
@@ -144,7 +144,7 @@ const clubs = {
     league: "La Liga（スペイン）",
     instagram: "https://www.instagram.com/realmadrid/",
     watch: "DAZN",
-    image: "./image/realmadrid.webp",
+    image: "./realmadrid.webp",
 
     description:
       "勝利、実績、伝統、世界的知名度を重視する人に向く世界的名門クラブ。",
@@ -168,7 +168,7 @@ const clubs = {
     league: "J League（日本）",
     instagram: "",
     watch: "DAZN",
-    image: "./image/local.webp",
+    image: "./local.webp",
 
     description:
       "身近な地域を代表するクラブ。サッカー初心者でもスタジアム観戦などをきっかけに応援を始めやすく、地域との一体感を感じられる。",
