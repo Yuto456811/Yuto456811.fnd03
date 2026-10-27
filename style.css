@@ -1,0 +1,107 @@
+/* 質問回答画面のデザイン変更 */
+
+body{
+    margin:0;
+    background-color: lightgreen;
+}
+
+h1{
+    background-color: white;
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+}
+
+.question-block{
+    width: 70%;
+    max-width: 700px;
+    margin: 25px auto;
+    padding: 25px;
+    background-color: white;
+    border-radius: 10px
+}
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.option-label{
+    display: block;   /*この要素は1行分の箱として扱う*/
+    margin: 12px;
+}
+
+#dia-btn {
+    display: block;
+    width: 300px;
+    height: 60px;
+    margin: 50px auto 70px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;          /*カーソル合わせたら指の形*/
+}
+
+#dia-btn:hover {
+    display: block;
+    width: 300px;
+    height: 60px;
+    margin: 50px auto 70px;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;         
+}
+
+/* ---------------------------------------------------------- */
+/* 結果表示画面 */
+#result-page{
+    background-color: lightgreen;
+    margin:10pxs auto;
+    text-align: center;
+}
+
+#result-diagunosis{
+    background-color: white;
+    font-size: 50px;
+    font-style: italic;
+}
+
+#club-image {
+    display: block;
+    width: 500px;
+    height: 300px;
+    margin: 30px auto;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+
+#club-name {
+    color: white;
+    font-size: 35px;
+    text-shadow: 2px 2px 4px black;  /*右 左 影のぼかし具合*/
+}
+
+#club-league,#club-description{
+    font-weight: bold;
+}
+
+#club-instagram, #retry{
+    display:inline-block;
+    background-color: white;
+    color: black;
+    padding: 10px 15px;   /*上下 左右の余白*/
+}
+
+#club-instagram:hover,#retry:hover {
+    background-color: black;
+    color: white;
+}
